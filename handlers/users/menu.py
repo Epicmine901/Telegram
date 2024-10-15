@@ -24,6 +24,7 @@ msg += "O'zbek tili (Ona tili);\n"
 msg += "Ingliz tili (B2);\n"
 msg += "Arab tili (O'qiy olish)."
 txt["BIO"]=msg
+
 @dp.callback_query_handler(in_list=menu)
 async def menu_handler(call:CallbackQuery):
     #await call.message.delete()
