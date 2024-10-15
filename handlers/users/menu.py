@@ -39,7 +39,7 @@ async def menu_handler(call:CallbackQuery):
     await call.message.delete()
     with open("photo_ID.txt","w") as file:
         file.write(" ".join(a))
-        
+ 
 
 
 @dp.message_handler(is_admin=True,commands=['reload'])
