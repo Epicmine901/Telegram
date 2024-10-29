@@ -1,0 +1,24 @@
+﻿#Keyboards
+keyboard:Menu = ☰Menu
+keyboard:Xodimlar = 🧑‍💻Employees
+keyboard:Kurslar = 📊Courses
+keyboard:About = 📜About
+keyboard:Vakansiya = 🧾Vacancy
+keyboard:boglanish = 📞Connection
+keyboard:ortga = 🔙 Back
+keyboard:True = Yes
+keyboard:False = No
+keyboard:yozilish = 🧾Join to Course
+keyboard:settings = ⚙️Settings
+keyboard:taklif = 🌟Offer
+keyboard:shikoyat = 👎Complaint
+#Caption
+caption:Loby = Hello 👋<br>Tramplinga.<br>Welcome🤝<br><br>At Trampling IT Academy you can learn programming from professionals. you can create your own portfolio based on more than 50 projects in practice.
+caption:Menu =
+caption:Xodimlar =
+caption:Kurslar = 
+caption:About = <b>TRAMPLIN IT ACADEMY TRAINS STUDENTS IN VARIOUS AREAS OF PROGRAMMING, ONE OF THE MODERN PROFESSIONS, ON THE BASIS OF PRACTICE-BASED METHODOLOGY</b>
+caption:settings = 
+#TEXT
+TEXT:Choise_language = <b>Select the language</b>
+TEXT:Changed_language = The language has been changed

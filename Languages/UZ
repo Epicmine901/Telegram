@@ -1,0 +1,24 @@
+﻿#Keyboards
+keyboard:Menu = ☰Menu
+keyboard:Xodimlar = 🧑‍💻Xodimlar
+keyboard:Kurslar = 📊Kurslar
+keyboard:About = 📜About
+keyboard:Vakansiya = 🧾Vakansiya
+keyboard:boglanish = 📞Bog'lanish
+keyboard:ortga = 🔙 Ortga
+keyboard:True = Ha
+keyboard:False = Yoq
+keyboard:yozilish = 🧾Kursga yozilish
+keyboard:settings = ⚙️Sozlanma
+keyboard:taklif = 🌟Taklif
+keyboard:shikoyat = 👎Shikoyat
+#Caption
+caption:Loby = Salom👋<br>Tramplinga.<br>Xush kelibsiz🤝<br><br>Tramplin IT Akademiyasida siz Dasturlashni Professionallardan o'rganishingiz mumkin.<br><br>Kurs davomida yuqori malakali dasturchilardan maxsus metodika asosida sifatli ta’lim olishingiz va o’zlashtirgan bilimlaringizni amaliyotda 50 dan ortiq loyiha asosida o’z portfolioingizni yaratishingiz mumkin.
+caption:Menu =
+caption:Xodimlar =
+caption:Kurslar = 
+caption:About = <b>TRAMPLIN IT AKADEMIYASI ZAMONAVIY KASBLARDAN BIR BO'LGAN DASTURLASH SOHASINING TURLI YO'NALISHLARIDA AMALIYOTGA ASOSLANGAN METODIKA ASOSIDA O'QUVCHILARGA TA'LIM BERADI</b>
+caption:settings = 
+#TEXT
+TEXT:Choise_language = <b>Tilni Tanlang</b>
+TEXT:Changed_language = Til ozgartirildi
