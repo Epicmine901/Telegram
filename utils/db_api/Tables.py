@@ -51,3 +51,4 @@ class html_Table():
             table_html += "</tr>"
         table_html += "</tbody></table>"
         return table_html
+
